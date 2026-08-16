@@ -1,0 +1,2 @@
+# Install the upstream ByteTrack requirements first.
+PyYAML>=6.0,<7
